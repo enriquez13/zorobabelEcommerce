@@ -1,0 +1,20 @@
+[
+    {
+        "id":"1",
+        "imagen":"imagenes/PS2.jpg",
+        "nombre":"camiseta cuello militar",
+        "valor": 58000 
+    },
+    {
+        "id":"2",
+        "imagen":"imagenes/PS3.jpg",
+        "nombre":"camiseta cuello redondo",
+        "valor": 55000 
+    },
+    {
+        "id":"3",
+        "imagen":"imagenes/PS5.jpg",
+        "nombre":"camiseta tipo polo",
+        "valor": 42000 
+    }
+]
